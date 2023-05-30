@@ -12,6 +12,10 @@ public class CameraController : MonoBehaviour
         get => _boundShape;
         set
         {
+
+
+
+
             _boundShape = value;
             _boundShapeXmin = value.transform.position.x + value.offset.x - value.size.x / 2.0f;
             _boundShapeXmax = value.transform.position.x + value.offset.x + value.size.x / 2.0f;
