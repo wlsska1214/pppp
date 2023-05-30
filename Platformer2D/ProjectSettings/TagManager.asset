@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - Ladder
+  - 
+  - Player
+  - PlayerCollision
+  - 
+  - 
+  - 
+  - Enemy
+  - EnemyCollision
+  - EnemyProjectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Portal
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2008782067
+    locked: 0
+  - name: BGObjects
+    uniqueID: 3980510413
+    locked: 0
+  - name: Interactables
+    uniqueID: 3346912407
+    locked: 0
+  - name: Player
+    uniqueID: 2798475031
+    locked: 0
+  - name: Enemies
+    uniqueID: 602869191
+    locked: 0
+  - name: EnemyUISystems
+    uniqueID: 3347458107
+    locked: 0
+  - name: Items
+    uniqueID: 845032073
+    locked: 0
+  - name: DamageEffects
+    uniqueID: 2548629261
+    locked: 0
